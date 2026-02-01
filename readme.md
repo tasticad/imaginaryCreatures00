@@ -1,4 +1,4 @@
-# Three.js Journey
+# Imaginary Creature - Initial proj [FoxHunter]
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
