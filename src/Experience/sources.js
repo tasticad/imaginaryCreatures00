@@ -2,7 +2,7 @@ export default [
     {
         name: 'foxModel',
         type: 'gltfModel',
-        path: 'models/FoxHunter/glTF_2/FoxHunter.gltf'
+        path: 'models/FoxHunter.gltf'
     },
     {
         name: 'foxColorTex',
@@ -17,7 +17,7 @@ export default [
     {
         name: 'groundModel',
         type: 'gltfModel',
-        path: 'models/Background/ground.gltf'
+        path: 'models/ground.gltf'
     },
     {
         name: 'groundTex',
@@ -27,7 +27,7 @@ export default [
     {
         name: 'plantsModel',
         type: 'gltfModel',
-        path: 'models/Background/plants.gltf'
+        path: 'models/plants.gltf'
     },
     {
         name: 'plantsTex',
@@ -37,7 +37,7 @@ export default [
     {
         name: 'backgroundModel',
         type: 'gltfModel',
-        path: 'models/Background/sphere.gltf'
+        path: 'models/sphere.gltf'
     },
     {
         name: 'backgroundTex',
