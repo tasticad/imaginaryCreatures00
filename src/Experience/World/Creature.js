@@ -116,7 +116,7 @@ export default class Creature {
             vertexColors: true
         })
 
-        this.outlineMat.userData.outlineThickness = 0.055
+        this.outlineMat.userData.outlineThickness = 0.066
 
         this.outlineMat.onBeforeCompile = (shader) => {
 

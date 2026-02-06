@@ -26,7 +26,7 @@ export default class Lights {
     setBackLight() {
         this.backLight = new THREE.Object3D();
         this.backLight.position.set(-10, 5, -5)
-        this.backLight.color = new THREE.Color('#74e1c7')
+        this.backLight.color = new THREE.Color('#66e1ea')
         this.scene.add(this.backLight)
 
         // Debug
